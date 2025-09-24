@@ -6,3 +6,5 @@ Smart Study Planner is a web-based application designed to help students efficie
 
 **When We add Tasks the tasks will appear like this**
 ![image_alt](https://github.com/navyavarikuti/Smart_Study_Plan/blob/6adf4219c5fae039e01cbd1703b301b8b209848c/screenshots/studyPage1.png)
+**When we complete that particular task we click done after clicking the page will appear like this**
+![image_alt](https://github.com/navyavarikuti/Smart_Study_Plan/blob/a7eac8fe192b6b9f2f2aec337f15545bf7ad491b/screenshots/studyPage3.png)
